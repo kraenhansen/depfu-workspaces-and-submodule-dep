@@ -1,0 +1,9 @@
+{
+  "name": "my-lib",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Look at the outdated dependency",
+  "dependencies": {
+    "node-fetch": "1.0.0"
+  }
+}
